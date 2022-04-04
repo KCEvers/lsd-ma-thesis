@@ -1,0 +1,30 @@
+MNI x	MNI y	MNI z	Label	Nodal temporal variability: Comparisons	Nodal temporal variability: FDR-corrected p	Nodal temporal correlation coefficient: Comparisons	Nodal temporal correlation coefficient: FDR-corrected p	Nodal temporal path length: Comparisons	Nodal temporal path length: FDR-corrected p
+-6	50	-1	vmPFC					MDD < HCs	0.048
+-11	45	17	vmPFC					MDD < HCs	0.047
+-2	30	27	ACC					MDD < HCs	0.048
+44	8	34	dFC			MDD < HCs	0.042	MDD < HCs	0.048
+60	8	34	dFC	MDD > HCs	0.048			MDD < HCs	0.004
+-20	6	7	basal-ganglia					MDD < HCs	0.01
+14	6	7	basal-ganglia					MDD < HCs	0.017
+53	-3	32	frontal			MDD < HCs	0.03		
+-26	-8	54	parietal	MDD > HCs	0.048			MDD < HCs	0.01
+-54	-9	23	precentral-gyrus	MDD > HCs	0.014	MDD < HCs	0.004	MDD < HCs	0.024
+-47	-12	36	parietal			MDD < HCs	0.042		
+-12	-12	6	thalamus	MDD > HCs	0.031			MDD < HCs	0.042
+11	-12	6	thalamus	MDD > HCs	0.019			MDD < HCs	0.028
+-47	-18	50	parietal	MDD > HCs	0.013	MDD < HCs	0.004	MDD < HCs	0.01
+46	-20	45	parietal	MDD > HCs	0.048				
+-55	-22	38	parietal					MDD < HCs	0.028
+41	-23	55	parietal	MDD > HCs	0.014	MDD < HCs	0.042	MDD < HCs	0.01
+-59	-25	-15	inf-temporal	MDD > HCs	0.043			MDD < HCs	0.009
+9	-43	25	precuneus					MDD < HCs	0.048
+-41	-47	29	angular-gyrus					MDD < HCs	0.041
+5	-50	33	precuneus	MDD > HCs	0.048				
+10	-55	17	post-cingulate			MDD < HCs	0.042		
+-6	-56	29	precuneus	MDD > HCs	0.048			MDD < HCs	0.02
+51	-59	34	angular-gyrus			MDD < HCs	0.048		
+-48	-63	35	angular-gyrus					MDD < HCs	0.028
+-36	-69	40	IPS	MDD > HCs	0.048			MDD < HCs	0.018
+29	-73	29	occipital	MDD > HCs	0.031	MDD < HCs	0.042	MDD < HCs	0.045
+-37	-83	-2	post-occipital					MDD < HCs	0.028
+-29	-88	8	post-occipital	MDD > HCs	0.048				

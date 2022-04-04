@@ -1,0 +1,9 @@
+ROI_nr	ROI_label	nr_voxels	MNI x	MNI y	MNI z
+88	7Networks_LH_Default_PFC_6	623	-6	50	-1
+90	7Networks_LH_Default_PFC_8	607	-2	30	27
+75	7Networks_LH_Default_Temp_2	777	-59	-25	-15
+199	7Networks_RH_Default_pCunPCC_2	924	5	-50	33
+198	7Networks_RH_Default_pCunPCC_1	484	10	-55	17
+97	7Networks_LH_Default_pCunPCC_2	702	-6	-56	29
+183	7Networks_RH_Default_Par_2	855	51	-59	34
+82	7Networks_LH_Default_Par_4	1073	-48	-63	35
